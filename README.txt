@@ -1,3 +1,7 @@
+admin username: CAM-RON
+admin password: camroniscool2015
+
+
 
 CONTENTS OF THIS FILE
 ---------------------
